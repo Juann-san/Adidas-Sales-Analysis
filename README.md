@@ -47,3 +47,5 @@ In the initial data preparation, I performed the following tasks;
 3. Improve customer experience in walmart and enhance sales promotions in the store.
 
 4. Increase sales workers on Fridays to maintain sales for that day. conduct market research to find out why other days have lower sales.
+
+5. Conduct research on why Qtr 3 had the highest sales, what drove the increase, the outlets involved and apply measures continously for other qtrs in the year
